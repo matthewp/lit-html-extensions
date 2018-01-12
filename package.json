@@ -1,0 +1,20 @@
+{
+  "name": "@matthewp/lit-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewp/lit-html-extensions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewp/lit-html-extensions/issues"
+  },
+  "homepage": "https://github.com/matthewp/lit-html-extensions#readme"
+}
